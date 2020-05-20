@@ -13,6 +13,7 @@ public class Program
     
     
     public static void main(String args[]) 
+    
     {
         String result;
         System.out.println("Welcome to the fowler.Movie Store");
@@ -26,6 +27,7 @@ public class Program
         result = c1.statement();
         System.out.println(result);
     }
+    
 }
 
 
